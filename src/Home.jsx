@@ -3,7 +3,7 @@
 const home =()=>{
     return(
         <div>
-           <P>Routes routes</p>
+           <P>Routes routes</P>
         </div>
     )
 }
